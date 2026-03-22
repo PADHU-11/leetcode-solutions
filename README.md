@@ -37,3 +37,19 @@ Solving at least 1 problem daily 🚀
 🔗 LeetCode Profile
 
 https://leetcode.com/u/PADMANABHAN_S/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
+<!---LeetCode Topics End-->
