@@ -45,6 +45,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | ------- |
 | [0007-reverse-integer](https://github.com/PADHU-11/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
 | [0319-bulb-switcher](https://github.com/PADHU-11/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -85,4 +86,8 @@ https://leetcode.com/u/PADMANABHAN_S/
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
