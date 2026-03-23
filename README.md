@@ -43,6 +43,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -52,5 +53,6 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
