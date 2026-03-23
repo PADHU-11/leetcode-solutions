@@ -48,6 +48,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [0326-power-of-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2652-sum-multiples](https://github.com/PADHU-11/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/PADHU-11/leetcode-solutions/tree/master/2739-total-distance-traveled) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +59,8 @@ https://leetcode.com/u/PADMANABHAN_S/
 | ------- |
 | [0326-power-of-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [2739-total-distance-traveled](https://github.com/PADHU-11/leetcode-solutions/tree/master/2739-total-distance-traveled) |
 <!---LeetCode Topics End-->
