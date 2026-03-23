@@ -55,6 +55,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0476-number-complement) |
 ## Recursion
 |  |
@@ -70,4 +71,16 @@ https://leetcode.com/u/PADMANABHAN_S/
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/PADHU-11/leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Greedy
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
