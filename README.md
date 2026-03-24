@@ -51,6 +51,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [0326-power-of-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/0390-elimination-game) |
+| [1025-divisor-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PADHU-11/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1518-water-bottles](https://github.com/PADHU-11/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2652-sum-multiples](https://github.com/PADHU-11/leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -78,10 +79,12 @@ https://leetcode.com/u/PADMANABHAN_S/
 | ------- |
 | [0292-nim-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/PADHU-11/leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [1025-divisor-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -109,4 +112,5 @@ https://leetcode.com/u/PADMANABHAN_S/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
