@@ -102,6 +102,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [0027-remove-element](https://github.com/PADHU-11/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PADHU-11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PADHU-11/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1480-running-sum-of-1d-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PADHU-11/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -124,6 +125,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | ------- |
 | [0027-remove-element](https://github.com/PADHU-11/leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PADHU-11/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
