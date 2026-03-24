@@ -61,6 +61,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0476-number-complement) |
@@ -101,6 +102,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | ------- |
 | [0027-remove-element](https://github.com/PADHU-11/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PADHU-11/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PADHU-11/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
