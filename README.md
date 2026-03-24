@@ -91,8 +91,13 @@ https://leetcode.com/u/PADMANABHAN_S/
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
+| [1672-richest-customer-wealth](https://github.com/PADHU-11/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PADHU-11/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/PADHU-11/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
