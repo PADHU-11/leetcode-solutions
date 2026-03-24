@@ -55,6 +55,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [1025-divisor-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PADHU-11/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1518-water-bottles](https://github.com/PADHU-11/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/PADHU-11/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2652-sum-multiples](https://github.com/PADHU-11/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/PADHU-11/leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PADHU-11/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
