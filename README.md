@@ -56,6 +56,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [1518-water-bottles](https://github.com/PADHU-11/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2652-sum-multiples](https://github.com/PADHU-11/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/PADHU-11/leetcode-solutions/tree/master/2739-total-distance-traveled) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PADHU-11/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PADHU-11/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1672-richest-customer-wealth](https://github.com/PADHU-11/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/PADHU-11/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
