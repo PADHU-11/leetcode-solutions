@@ -46,6 +46,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [0007-reverse-integer](https://github.com/PADHU-11/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/PADHU-11/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PADHU-11/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -74,6 +75,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/PADHU-11/leetcode-solutions/tree/master/0319-bulb-switcher) |
 ## Dynamic Programming
 |  |
@@ -100,4 +102,8 @@ https://leetcode.com/u/PADMANABHAN_S/
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/PADHU-11/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
