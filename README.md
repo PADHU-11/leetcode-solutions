@@ -46,6 +46,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [0007-reverse-integer](https://github.com/PADHU-11/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/PADHU-11/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/PADHU-11/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/0292-nim-game) |
@@ -138,4 +139,8 @@ https://leetcode.com/u/PADMANABHAN_S/
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PADHU-11/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
