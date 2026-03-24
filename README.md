@@ -46,6 +46,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [0007-reverse-integer](https://github.com/PADHU-11/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/PADHU-11/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/PADHU-11/leetcode-solutions/tree/master/0319-bulb-switcher) |
