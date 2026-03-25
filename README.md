@@ -60,6 +60,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PADHU-11/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1518-water-bottles](https://github.com/PADHU-11/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/PADHU-11/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2652-sum-multiples](https://github.com/PADHU-11/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/PADHU-11/leetcode-solutions/tree/master/2739-total-distance-traveled) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PADHU-11/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -117,6 +118,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PADHU-11/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1480-running-sum-of-1d-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PADHU-11/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/PADHU-11/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PADHU-11/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
