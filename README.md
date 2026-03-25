@@ -108,6 +108,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PADHU-11/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/PADHU-11/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0136-single-number) |
@@ -145,4 +146,8 @@ https://leetcode.com/u/PADMANABHAN_S/
 | ------- |
 | [0069-sqrtx](https://github.com/PADHU-11/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/PADHU-11/leetcode-solutions/tree/master/0441-arranging-coins) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PADHU-11/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
