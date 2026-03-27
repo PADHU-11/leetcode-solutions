@@ -123,6 +123,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/PADHU-11/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0657-robot-return-to-origin](https://github.com/PADHU-11/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 ## Matrix
 |  |
