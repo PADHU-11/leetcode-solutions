@@ -1,0 +1,31 @@
+STRING METHODS
+
+length(): Returns the total count of characters in the string.
+
+charAt(int index): Returns the character at the specified index.
+
+substring(int beginIndex, int endIndex): Returns a new string (or character range) from begin to end-1.
+
+equals(Object otherObj) & equalsIgnoreCase(...): Compares string content for equality, with or without case sensitivity.
+
+indexOf(String s) & lastIndexOf(String s): Returns the first or last index of a specified substring.
+
+contains(CharSequence sequence): Checks if the string contains the specified character sequence.
+
+startsWith(String prefix) & endsWith(String suffix): Checks if the string begins with a prefix or ends with a suffix.
+
+concat(String str): Appends a specified string to the end of the current string.
+
+replace(char old, char new) & replace(target, replacement): Replaces characters or substrings.
+
+toLowerCase() & toUpperCase(): Converts the string to lowercase or uppercase.
+
+trim(): Removes leading and trailing whitespace.
+
+split(String regex): Splits the string into an array based on a regular expression.
+
+toCharArray(): Converts the string into a new character array.
+
+isEmpty(): Checks if the string has a length of 0.
+
+valueOf(type value): Returns the string representation of a value.
