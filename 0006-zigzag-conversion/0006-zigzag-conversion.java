@@ -3,43 +3,29 @@ class Solution {
         if(numRows==1){
             return s;
         }
-        int n=s.length();
-        char[][] arr=new char[numRows][n];
-        boolean dir=true;
-        int r=0;
-        int c=0;
-        for(char ch:s.toCharArray()){
-            arr[r][c]=ch;
+        StringBuilder[] sb=new StringBuilder[numRows];
+        for(int i=0;i<numRows;i++){
+            sb[i]=new StringBuilder();
+        }
+        boolean dir=false;
+        int currow=0;
+        for(int i=0;i<s.length();i++){
+            sb[currow].append(s.charAt(i));
+            if(currow==0 || currow==numRows-1){
+                dir=!dir;
+            }
             if(dir){
-                if(r==numRows-1){
-                    dir=!dir;
-                    c++;
-                    r--;
-                }
-                else{
-                    r++;
-                }
+                currow++;
             }
             else{
-                if(r==0){
-                    dir=true;
-                    r++;
-                }
-                else{
-                    r--;
-                    c++;
-                }
+                currow--;
             }
         }
-        StringBuilder sb=new StringBuilder();
-        for(char[] c1:arr){
-            for(char ch1:c1){
-                if(ch1!='\0'){
-                    sb.append(ch1);
-                }
-            }
+        StringBuilder res=new StringBuilder();
+        for(int i=0;i<sb.length;i++){
+            res.append(sb[i]);
         }
-        return sb.toString();
+        return res.toString();
 
     }
 }
