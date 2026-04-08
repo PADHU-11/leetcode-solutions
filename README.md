@@ -81,6 +81,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PADHU-11/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/PADHU-11/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1518-water-bottles](https://github.com/PADHU-11/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2739-total-distance-traveled](https://github.com/PADHU-11/leetcode-solutions/tree/master/2739-total-distance-traveled) |
@@ -111,6 +112,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | ------- |
 | [0001-two-sum](https://github.com/PADHU-11/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/PADHU-11/leetcode-solutions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/PADHU-11/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -130,6 +132,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PADHU-11/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/PADHU-11/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Game Theory
 |  |
