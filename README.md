@@ -94,6 +94,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/PADHU-11/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0397-integer-replacement](https://github.com/PADHU-11/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/PADHU-11/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -114,6 +115,7 @@ https://leetcode.com/u/PADMANABHAN_S/
 | [0027-remove-element](https://github.com/PADHU-11/leetcode-solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/PADHU-11/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/PADHU-11/leetcode-solutions/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/PADHU-11/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/PADHU-11/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PADHU-11/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PADHU-11/leetcode-solutions/tree/master/0283-move-zeroes) |
